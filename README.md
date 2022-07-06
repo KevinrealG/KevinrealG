@@ -38,7 +38,7 @@ I'm an artificial intelligence enthusiast and science student who is passionate 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinrealG&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinrealG&theme=buefy&layout=compact" />
 </a>
-<!---
+
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -54,7 +54,7 @@ I'm an artificial intelligence enthusiast and science student who is passionate 
 </p>
 Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
 
-
+<!---
 KevinrealG/KevinrealG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
