@@ -10,6 +10,7 @@ I'm an artificial intelligence enthusiast and science student who is passionate 
 - 👀 I’m interested in Machine Learning, Cognitive Sciences and Maths.
 - 👯 I’m looking for a artificial intelligence internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kevinandressossavalencia) [Gmail](mailto:kevinsossav@gmail.com)
+- Portfolio:  [WEB](https://rocky-gong-1b2.notion.site/Soluciones-Inteligentes-con-Ciencia-de-Datos-y-Machine-Learning-1085334da5d880d38256fde6bbe098a4)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
